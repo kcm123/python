@@ -5,6 +5,7 @@ def add_10(value):
         result = value + 10
         return result
 print(add_10(32))
+print("test")
 print("{} {} 테스트".format('2', '4'))
 print()
 test = [{'id':'cat'}, {'id':'dog'},{'id':'bird'} ]
